@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/maham/My Projects/DIU_CPC/app/src/main/res/layout/activity_option.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/maham/My Projects/DIU_CPC/app/src/main/res/drawable/radius.xml" value="0.214" />
+        <entry key="..\:/Users/maham/My Projects/DIU_CPC/app/src/main/res/drawable/radius_btn.xml" value="0.214" />
+        <entry key="..\:/Users/maham/My Projects/DIU_CPC/app/src/main/res/layout/activity_option.xml" value="0.264" />
       </map>
     </option>
   </component>
